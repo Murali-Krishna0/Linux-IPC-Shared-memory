@@ -1,5 +1,5 @@
-# NAME: PRADEEP V
-# REG NO:212223240119
+# NAME: MURALI KRISHNA S
+# REG NO:212223230129
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
